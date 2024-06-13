@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61951344274",
+    "project_id": "sacrosantolagloria",
+    "storage_bucket": "sacrosantolagloria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61951344274:android:5dcdcad48d3248e60bf04b",
+        "android_client_info": {
+          "package_name": "com.galapago.tiranostemblad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFiE0l4c3O7w5Wwv8e6s9ZtWk7UijJxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
